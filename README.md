@@ -1,4 +1,4 @@
-<h1>神速Down-README <img src="https://img.shields.io/badge/MIT-License-brightgreen.svg?style=popout-square" alt=""> <img src="https://img.shields.io/badge/Tampermonkey-5.0.1-red.svg?style=popout-square" alt=""> <img src="https://img.shields.io/badge/Tampermonkey-Beta-red.svg?style=popout-square" alt=""></h1>
+<h1>神速Down·批量解析-README <img src="https://img.shields.io/badge/MIT-License-brightgreen.svg?style=popout-square" alt=""> <img src="https://img.shields.io/badge/Tampermonkey-5.0.1-red.svg?style=popout-square" alt=""> <img src="https://img.shields.io/badge/Tampermonkey-Beta-red.svg?style=popout-square" alt=""></h1>
 <h3>🛒网盘低价合租：<a href="https://ass.coxpan.com/"> 立即前往</a> </h3>
 <h3>🧩一键安装脚本：<a href="https://oa.assco.cn/ssdown.user.js?t=sdbifbuise"> 立即安装</a> </h3>
 <hr>
